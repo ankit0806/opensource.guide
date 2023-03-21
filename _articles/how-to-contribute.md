@@ -122,7 +122,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 ### Do you like helping others code?
 
-* Review code on other people's submissions
+* Review other people's code submissions
 * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
@@ -158,7 +158,7 @@ Every open source community is different.
 
 Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get oriented quickly to any new project.
 
 A typical open source project has the following types of people:
 
